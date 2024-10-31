@@ -1,0 +1,89 @@
+#prtTableMain_{cpref}{
+	padding:0px 0px 0px 0px !important;
+}
+*, *:before, *:after{
+	-moz-box-sizing:inherit !important;
+	-webkit-box-sizing:inherit !important;
+	box-sizing:inherit !important;
+}
+.prtlocalColumn_{cpref}{
+	background: none repeat scroll 0 0 #FFFFFF !important;
+    border: 1px solid #DDDDDD !important;
+    color: #333333 !important;
+    font: 12px 'Lucida Sans','trebuchet MS',Arial,Helvetica !important;
+    padding: 20px !important;
+    position: relative !important;
+    text-shadow: 0 1px rgba(255, 255, 255, 0.8) !important;
+    width: 180px !important;
+	-moz-box-sizing:content-box !important;
+	margin:15px 0px 5px 0px;
+}
+.prtlocalColumn_{cpref}:hover{
+}
+.prtRowT_{cpref}{
+	border-top: 1px solid #DDDDDD !important;
+    padding: 10px 0 !important;
+	min-height:15px !important;
+}
+.prtRowT_{cpref} table, .prtRowT_{cpref} tr, .prtRowT_{cpref} td {
+	border: 0 !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.prtColumnName_{cpref}{
+	background-color: #EEEEEE !important;
+    background-image: linear-gradient(#FFFFFF, #EEEEEE) !important;
+    font-size: 20px !important;
+    font-weight: normal !important;
+    margin: -20px -20px 50px !important;
+    padding: 20px !important;
+	font-family:Georgia, "Times New Roman", Times, serif !important;
+}
+.prtColumnName_{cpref} span{
+	background: none repeat scroll 0 0 #FFFFFF !important;
+    border: 5px solid #FFFFFF !important;
+    border-radius: 100px 100px 100px 100px !important;
+    box-shadow: 0 5px 20px #DDDDDD inset, 0 3px 0 #999999 inset !important;
+    color: #777777 !important;
+    display: block !important;
+    font: bold 25px/100px Georgia,Serif !important;
+    height: 100px !important;
+    margin: 10px auto -65px !important;
+    width: 100px !important;
+	text-align:center !important;
+}
+.prtTitle_{cpref}{
+	min-height:24px !important;
+}
+.prtButton_{cpref}{
+	background-color: #72CE3F !important;
+    background-image: linear-gradient(#72CE3F, #62BC30) !important;
+    border-radius: 3px 3px 3px 3px !important;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5), 0 2px 0 rgba(0, 0, 0, 0.7) !important;
+    color: #FFFFFF !important;
+    display: inline-block !important;
+    font: bold 14px Arial,Helvetica !important;
+    margin: 20px 0px 0px 0px !important;
+    padding: 8px 20px !important;
+    position: relative !important;
+    text-decoration: none !important;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3) !important;
+    text-transform: uppercase !important;
+	min-height:15px !important;
+	min-width:30px !important;
+}
+.prtButton_{cpref}:hover{
+	color:#FFF !important;
+	text-decoration:none !important;
+	background-color: #62bc30 !important;
+    background-image: -moz-linear-gradient(#62bc30, #72ce3f) !important;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#62bc30), to(#72ce3f)) !important;      
+    background-image: -webkit-linear-gradient(#62bc30, #72ce3f) !important;
+    background-image: -o-linear-gradient(#62bc30, #72ce3f) !important;
+    background-image: -ms-linear-gradient(#62bc30, #72ce3f) !important;
+    background-image: linear-gradient(#62bc30, #72ce3f) !important; 
+}
+.signup_empty_{cpref}{
+	width:100% !important;
+	height:73px !important;
+}

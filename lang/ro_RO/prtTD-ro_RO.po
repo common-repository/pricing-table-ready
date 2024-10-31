@@ -1,0 +1,522 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ready! Pricing Table\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-25 07:09+0300\n"
+"PO-Revision-Date: Tue Apr 01 2014 13:40:57 GMT-0700 (Pacific Daylight Time)\n"
+"Last-Translator: \n"
+"Language-Team: Ready!\n"
+"Language: english\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: ro_RO\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: c:\\WebServers\\home\\wp1.local\\www\\wp-"
+"content\\plugins\\pricing-table-ready\\modules\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: en_GB"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/controller.php:7
+msgid "Your name field is required."
+msgstr "Campul nume este obligatoriu."
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/controller.php:8
+msgid "Your website field is required."
+msgstr "Campul website este obligatoriu."
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/controller.php:9
+msgid "Your e-mail field is required."
+msgstr "Campul e-mail este obligatoriu."
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/controller.php:10
+msgid "Subject field is required."
+msgstr "Campul subiect este obligatoriu."
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/controller.php:11
+msgid "You must select a valid category."
+msgstr "Trebuie sa selectati o categorie valida."
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/controller.php:12
+msgid "Message field is required."
+msgstr "Campul mesaj este obligatoriu."
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/controller.php:30
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/deactivatePage.php:37
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/pages/views/tpl/deactivatePage.php:37
+msgid "Done"
+msgstr "Gata"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/mod.php:41
+msgid "Pricing Tables"
+msgstr "Tabele de Pret"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/mod.php:42
+msgid "Pricing Table"
+msgstr "Tabel de Pret"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/mod.php:43
+msgid "Add New"
+msgstr "Adauga nou"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/mod.php:44
+msgid "Add New Pricing Table"
+msgstr "Adauga Tabel de Pret nou"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/mod.php:45
+msgid "Edit Pricing Table"
+msgstr "Editeaza Tabel de Pret"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/mod.php:46
+msgid "New Pricing Table"
+msgstr "Tabel de Pret nou"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/mod.php:47
+msgid "All Pricing Tables"
+msgstr "Toate Tabelele de Preturi"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/mod.php:48
+msgid "View Pricing Table"
+msgstr "Vezi Tabel de Pret"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/mod.php:49
+msgid "Search Pricing Tables"
+msgstr "Cauta Tabele de Pret"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/mod.php:50
+msgid "No Pricing Table found"
+msgstr "Nici un Tabel de Pret gasit"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/mod.php:51
+msgid "No Pricing Tables found in Trash"
+msgstr "Nici un Tabel de Pret gasit in Cos"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/mod.php:91
+msgid "Embed Code"
+msgstr "Cod incorporat"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:29
+msgid "FAQ"
+msgstr "FAQ"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:31
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:38
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:39
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:40
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:41
+msgid "-"
+msgstr "-"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:32
+msgid ""
+"It is a complete solution for full-fledged shop. Our plugin is integrated in "
+"this free WordPress theme."
+msgstr ""
+"Este o solutie completa pentru magazine. Plugin-ul nostru este integrat in "
+"aceasta tema gratuita de Wordpress. "
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:33
+msgid "To launch your shop, you need to complete 2 points:"
+msgstr "Pentru a lansa magazinul dumneavoastra, trebuie sa parcurgeti 2 pasi:"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:35
+msgid "Set up theme and plugin"
+msgstr "Setati tema si plugin-ul"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:36
+msgid "Add products"
+msgstr "Adaugati produse"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:42
+msgid "- Video Tutorials"
+msgstr "- Tutoriale Video"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:47
+msgid "System Information"
+msgstr "Informatii system"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:60
+msgid "Contact Us"
+msgstr "Contacti-ne"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:64
+msgid "Name"
+msgstr "Nume"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:64
+msgid "John Doe"
+msgstr "John Doe"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:65
+msgid "E-mail"
+msgstr "E-mail"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:65
+msgid "mail@example.com"
+msgstr "mail@example.com"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:66
+msgid "Website"
+msgstr "Website"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:66
+msgid "http://yoursite.com"
+msgstr "http://yoursite.com"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:67
+msgid "Subject"
+msgstr "Subiect"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:68
+msgid "Category"
+msgstr "Categorie"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:69
+msgid "Message"
+msgstr "Mesaj"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:69
+msgid ""
+"Type your meassage here. If you have any troubles, please describe it "
+"accurately. If it`s possibe send us: (text of the errors, print screen of "
+"errors, link to the webpages where you try to insert products, and any other "
+"information)"
+msgstr ""
+"Introduceti mesajul dumneavoastra aici. Daca aveti probleme, va rugam sa-l "
+"descrieti cu acuratete. In cazul in care este posibil sa ne trimiteti: (text a "
+"erorilor, imprimare a ecranul de erori, link-ul paginilor web in cazul in care "
+"incercati sa introduceti produse, precum si orice alte informatii)"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:75
+msgid "Send e-mail"
+msgstr "Trimite e-mail"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:85
+msgid "News and Info"
+msgstr "Noutati si Informatii"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:87
+msgid "- If you like our plugin, please rate it five stars at"
+msgstr "- Daca va place plugin-ul nostru, va rugam sa ne evaluati cu cinci stele pe"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:88
+msgid ""
+"- If you don't, please contact us, showing us our imperfection. We'll try to "
+"improve our service."
+msgstr ""
+"- Daca nu, va rugam sa ne contactati, sa ne aratati imperfectiunile noastre. "
+"Vom incerca sa imbunatatim serviciile noastre."
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/adminmenu/views/tpl/mainpage.php:89
+msgid "- New "
+msgstr "- Nou"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/handle/controller.php:12
+msgid "changes have been saved"
+msgstr "modificarile au fost salvate"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/handle/controller.php:64
+msgid "columns have been changes"
+msgstr "coloanele au fost salvate"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/handle/controller.php:88
+msgid "columns added"
+msgstr "coloane adaugate"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/handle/controller.php:100
+msgid "preview refreshed"
+msgstr "previzualizare reincarcat"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/handle/controller.php:103
+msgid "refresh preview disabled"
+msgstr "reincarcare previzualizare dezactivat"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/handle/controller.php:126
+msgid "column deleted"
+msgstr "coloana stearsa"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:150
+msgid "Option "
+msgstr "Optiune"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:152
+msgid "Invalid option ID or Code"
+msgstr "ID optiune si Cod invalid"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:155
+msgid "Empty data to save option"
+msgstr "Goleste datele pentru a salva optiunea"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:181
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:197
+msgid "Empty data to setup"
+msgstr "Goleste datele pentru a seta"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:211
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:213
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:234
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:236
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:266
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:268
+msgid "There is no default for this option and current template"
+msgstr "Nu este nimic prestabilit pentru aceasta optiune si pentru sablonul curent"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:215
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:238
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:270
+msgid "Empty option code"
+msgstr "Optiune cod goala"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:248
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/models/options.php:280
+msgid "Unable to remove image"
+msgstr "Nu se poate indeparta imaginea"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/options.php:5
+msgid "Tables"
+msgstr "Tabele"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/options.php:6
+msgid "Preview"
+msgstr "Previzualizare"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/options.php:7
+msgid "Options"
+msgstr "Optiuni"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/options.php:90
+msgid "select Icon"
+msgstr "selecteaza Icoana"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/deactivatePage.php:33
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/pages/views/tpl/deactivatePage.php:33
+msgid "Delete Plugin Data (options, setup data, database tables, etc.)"
+msgstr "Sterge datele Plugin-ului (optiuni, date configurare, baze de date tabele, etc)"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:12
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:10
+msgid "Column"
+msgstr "Coloana"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:24
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:22
+msgid "Button URL"
+msgstr "URL buton"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:25
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:23
+msgid "Input URL"
+msgstr "Introducere URL"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:28
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:26
+msgid "Button text"
+msgstr "Text buton"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:29
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:27
+msgid "Input text"
+msgstr "Introducere text"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:37
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:35
+msgid "Price"
+msgstr "Pret"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:41
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:41
+msgid "Currency"
+msgstr "Moneda"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:45
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:47
+msgid "Label"
+msgstr "Eticheta"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:46
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:48
+msgid "per month"
+msgstr "pe luna"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:55
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:57
+msgid "Row"
+msgstr "Rand"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:57
+msgid "text"
+msgstr "text"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:59
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:62
+msgid "add icon/tooltip"
+msgstr "adauga icoana/indiciu"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:63
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:66
+msgid "Don't show Icon"
+msgstr "Nu arata icoana"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:64
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:76
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:67
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:80
+msgid "Right"
+msgstr "Dreapta"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:65
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:77
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:68
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:81
+msgid "Left"
+msgstr "Stanga"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:66
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:69
+msgid "Center"
+msgstr "Centru"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:75
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumnSet.php:79
+msgid "Don't show Tooltip"
+msgstr "Nu arata Indiciu"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optColumn.php:100
+msgid "Add Column"
+msgstr "Adauga coloana"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optRightMain.php:9
+msgid "Choose Table Template"
+msgstr "Alege sablon Tabel"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optRightMain.php:25
+msgid "Width table:"
+msgstr "Latime tabel:"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optRightMain.php:29
+msgid "Columns Number:"
+msgstr "Numar coloane:"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optRightMain.php:35
+msgid "Rows Number:"
+msgstr "Numar randuri:"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optRightMain.php:41
+msgid "Description Table:"
+msgstr "Descriere Tabel:"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optRightMain.php:55
+msgid "Table Template:"
+msgstr "Sablon Tabel:"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optRightMain.php:61
+msgid "Color style:"
+msgstr "Stil culoare:"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optRightMain.php:70
+msgid "Float Table:"
+msgstr "Tabel plutitor:"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optRightMain.php:88
+msgid "Float Text in Table:"
+msgstr "Text plutitor in tabel:"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optRightMain.php:106
+msgid "Preview enable:"
+msgstr "Previzualizare activa:"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optRightMain.php:111
+msgid "Buttons:"
+msgstr "Butoane:"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optRightMain.php:112
+msgid "Show"
+msgstr "Arata"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/options/views/tpl/optRightMain.php:113
+msgid "Hide"
+msgstr "Ascunde"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/pages/controller.php:6
+msgid "Pages was recreated"
+msgstr "Paginile au fost create"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/pages/mod.php:151
+msgid "Pages"
+msgstr "Pagini"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/pages/mod.php:176
+msgid "This message will be visible for admin only."
+msgstr "Acest mesaj va fi disponibil doar pentru admin."
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/pages/views/tpl/pagesTab.php:14
+msgid "Pages Options"
+msgstr "Optiuni pagini"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/pages/views/tpl/pagesTab.php:17
+msgid "Recreate Pages"
+msgstr "Recreaza paginile"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/pages/views/tpl/pagesTab.php:18
+msgid ""
+"If you accidently deleted one of plugin page - Login, or Checkout, or Shopping "
+"cart for example, just click on this button - and pages, that you deleted, will "
+"be created again. Do not use it without emergency."
+msgstr ""
+"Daca ati sters accidental una din paginile plugin-ului - Autentificare, sau "
+"Checkout, sau Cosul de cumparaturi, de exemplu, doar faceti clic pe acest buton "
+"- si paginile pe care le-ati sters, vor fi create din nou. Nu-l folositi fara "
+"urgenta."
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/promo_ready/views/tpl/adminFooter.php:4
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/promo_ready/views/tpl/welcomePage.php:57
+msgid "Version"
+msgstr "Versiune"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/promo_ready/views/tpl/adminFooter.php:10
+msgid "Get"
+msgstr "Obtine"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/promo_ready/views/tpl/adminFooter.php:10
+msgid "License"
+msgstr "Licenta"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/promo_ready/views/tpl/adminFooter.php:14
+msgid "Support"
+msgstr "Suport"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/promo_ready/views/tpl/adminSendStatNote.php:9
+msgid "No, don\\'t send"
+msgstr "Nu, nu trimite"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/promo_ready/views/tpl/adminSendStatNote.php:26
+msgid "Yes, send statistics"
+msgstr "Da, trimite statistici"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/promo_ready/views/tpl/welcomePage.php:55
+msgid "Welcome to"
+msgstr "Bine ati venit la"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/templates/mod.php:11
+msgid "Templates"
+msgstr "Teme"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/templates/views/tpl/noTemplates.php:1
+msgid "No Templates were found"
+msgstr "Nici o tema nu a fost gasita"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/templates/views/tpl/templatesTab.php:42
+msgid "Template Updated. Reload page to see results."
+msgstr "Tema actualizata. Reincarca pagina pentru a vedea rezultate."
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/templates/views/tpl/templatesTab.php:71
+msgid "Activate"
+msgstr "Activeaza"
+
+#: c:\WebServers\home\wp1.local\www\wp-content\plugins\pricing-table-ready\modules/templates/views/tpl/templatesTab.php:72
+msgid "Deactivate"
+msgstr "Deactiveaza"

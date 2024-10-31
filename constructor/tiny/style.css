@@ -1,0 +1,123 @@
+#prtTableMain_{cpref}{
+	padding:20px 0px 5px 0px !important;
+}
+.prtlocalColumn_{cpref}{
+	background: none repeat scroll 0 0 #FFFFFF !important;
+    border: 1px solid #DDDDDD !important;
+    box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.3) !important;
+    color: #333333 !important;
+    float: left !important;
+    font: 13px 'Lucida Sans','trebuchet MS',Arial,Helvetica !important;
+    margin: 0px 5px 15px 5px !important;
+    padding: 20px 10px !important;
+    position: relative !important;
+    width: 190px !important;
+}
+.prtlocalColumn_{cpref}:hover{
+}
+.prtlocalColumn_{cpref} div{
+}
+
+.prtColumnName_{cpref}{
+	background-color: #EEEEEE !important;
+    background-image: linear-gradient(#FFFFFF, #EEEEEE) !important;
+    border-bottom: 8px solid !important;
+    font-size: 20px !important;
+    font-weight: normal !important;
+    margin: -20px -10px 20px !important;
+    padding-bottom: 40px !important;
+    padding-top: 40px !important;
+    position: relative !important;
+    text-transform: uppercase !important;
+	min-height:24px !important;
+}
+.prtPrice_{cpref}{
+	vertical-align:top !important;
+	color: #333333 !important;
+	text-align:center !important;
+	font-size: 45px !important;
+	min-height:95px !important;
+}
+.prtSmall_{cpref}{
+	color: #999999 !important;
+    font-size: 13px !important;
+    text-transform: uppercase !important;
+}
+.prtRowT_{cpref}{
+	padding: 10px 0 !important;
+	margin-bottom: 6px !important;
+	min-height:17px !important;
+}
+.prtButton_wrap_{cpref}{
+	height:50px !important;
+}
+.prtButton_{cpref}{
+	background:#72CE3F;
+	border-radius: 3px 3px 3px 3px !important;
+    color: #FFFFFF !important;
+    display: inline-block !important;
+    font: bold 14px Arial,Helvetica !important;
+    opacity: 0.9 !important;
+    padding: 10px 20px !important;
+    position: relative !important;
+    text-decoration: none !important;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.15) !important;
+    text-transform: uppercase !important;
+}
+.prtButton_{cpref}:hover{
+	color:#FFF !important;
+	opacity: 1 !important;
+}
+.signup_empty_{cpref}{
+	height:50px !important;
+}
+.prtHead0_{cpref}{
+}
+.prtButt0_{cpref}{
+	background:#72CE3F !important;
+}
+.prtButt1_{cpref}{
+	background:#B3E03F !important;
+}
+.prtHead1_{cpref}{
+	border-bottom-color:#B3E03F !important;
+}
+.prtButt2_{cpref}{
+	background:#3AD5A0 !important;
+}
+.prtHead2_{cpref}{
+	border-bottom-color:#3AD5A0 !important;
+}
+.prtButt3_{cpref}{
+	background:#45D0DA !important;
+}
+.prtHead3_{cpref}{
+	border-bottom-color:#45D0DA !important;
+}
+.prtButt4_{cpref}{
+	background:#72CE3F !important;
+}
+.prtButt5_{cpref}{
+	background:#B3E03F !important;
+}
+.prtHead5_{cpref}{
+	border-bottom-color:#B3E03F !important;
+}
+.prtButt6_{cpref}{
+	background:#3AD5A0 !important;
+}
+.prtHead6_{cpref}{
+	border-bottom-color:#3AD5A0 !important;
+}
+.prtButt7_{cpref}{
+	background:#45D0DA !important;
+}
+.prtHead7_{cpref}{
+	border-bottom-color:#45D0DA !important;
+}
+
+
+
+
+
+

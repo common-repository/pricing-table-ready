@@ -1,0 +1,93 @@
+#prtTableMain_{cpref}{
+	padding:10px 0px 5px 0px !important;
+}
+#prtTableMain_{cpref} table{
+	border:none !important;
+}
+.prtlocalColumn_{cpref}{
+	background-color: #FFFFFF !important;
+    border: 1px solid #F2F3F3 !important;
+    list-style: none outside none !important;
+    margin: 20px 0px 5px 0px !important;
+    padding: 5px !important;
+    width: 147px !important;
+}
+.prtlocalColumn_{cpref}:hover{
+	-webkit-transform: scale(1.1) !important;
+    -moz-transform: scale(1.1) !important;
+    -o-transform: scale(1.1) !important;
+    -moz-box-shadow:3px 5px 7px rgba(0,0,0,.7) !important;
+    -webkit-box-shadow: 3px 5px 7px rgba(0,0,0,.7) !important;
+    box-shadow:3px 5px 7px rgba(0,0,0,.7) !important;
+    cursor:pointer !important;
+    background:#d8e9f9 !important;
+}
+.prtlocalColumn_{cpref} div{
+	border-bottom: 1px dashed #CFD2D2 !important;
+	min-height:40px !important;
+	-moz-box-sizing:content-box !important;
+}
+.prtlocalColumn_{cpref} div:nth-child(2) {
+    background: none repeat scroll 0 0 #FBFBFB !important;
+}
+.prtlocalColumn_{cpref} div:nth-child(3) {
+    font-size: 12px !important;
+    font-weight: bold !important;
+}
+.prtlocalColumn_{cpref} div:nth-child(n+4) {
+    font-size: 14px !important;
+}
+.prtColumnName_{cpref}{
+    background: none repeat scroll 0 0 #2E818F !important;
+    color: #FFFFFF !important;
+    font-size: 18px !important;
+    font-weight: bold !important;
+	padding:5px 0px 5px 0px !important;
+	
+}
+.prtButton_{cpref}{
+	background: -moz-linear-gradient(center top , #0061BB 0%, #164E82 100%) repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+	background: -webkit-linear-gradient(top, #0061bb 0%,#164e82 100%) !important;
+    border: 1px solid #C4CBCC !important;
+    border-radius: 10px 10px 10px 10px !important;
+    color: #F0F0F0 !important;
+    display: block !important;
+    font-weight: bold !important;
+    margin: 5px 0 !important;
+    padding: 10px !important;
+    text-decoration: none !important;
+	min-height:19px !important;
+}
+.prtButton_{cpref}:hover{
+	color: #F0F0F0 !important;
+}
+.signup_empty_{cpref}{
+	width:100% !important;
+	height:51px !important;
+}
+#prtTableMain_{cpref} td img{
+	float:left !important;
+	width:16px !important;
+	height:16px !important;
+}
+#prtTableMain_{cpref} td{
+	padding:3px !important;
+}
+
+/* Tooltip */
+.prtTooltip{
+	position:absolute !important;
+	z-index:999 !important;
+	left:-9999px !important;
+	background-color:#dedede !important;
+	padding:5px !important;
+	border:1px solid #fff !important;
+	width:250px !important;
+}
+.prtTooltip p{
+	margin:0 !important;
+	padding:0 !important;
+	color:#fff !important;
+	background-color:#222 !important;
+	padding:2px 7px !important;
+}

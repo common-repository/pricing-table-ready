@@ -1,0 +1,9 @@
+#prtTableMain{
+	[mainWidth]
+	[floatTable]
+}
+.prtColumn{
+	display:inline-block;
+	vertical-align:top;
+	[floatText]
+}
